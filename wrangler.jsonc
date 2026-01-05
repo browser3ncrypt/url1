@@ -2,7 +2,7 @@
     "name": "url1",
 	    "compatibility_date": "2026-01-05",
 	    "main": "index.html"
-	  }
+	  },
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "WORKER-NAME",
