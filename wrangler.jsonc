@@ -3,7 +3,7 @@
 	    "compatibility_date": "2026-01-05",
 	    "main": "index.html"
 	  },
-{
+
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "WORKER-NAME",
   "main": "src/index.ts",
@@ -14,7 +14,7 @@
 
   // Add this to your wrangler.jsonc
   "kv_namespaces": [
-    {
+    
       "binding": "KV",
       "id": "d83418f3d657416cb74352a41477f3ba",
       
